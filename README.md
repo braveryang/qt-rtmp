@@ -11,3 +11,5 @@ Play rtmp url in Qt
 后来又发现了一个项目叫做Qt-AV:[https://github.com/wang-bin/QtAV](https://github.com/wang-bin/QtAV)
 通过一定的配置，在QT-AV一个例子的基础上终于实现了一个能够播放RTMP链接的播放器，见我的另一个仓库
 [https://github.com/zhixuanli/qt-av-stream-player](https://github.com/zhixuanli/qt-av-stream-player)
+
+详细情况见本文：[QT | 聊聊QT与直播流播放——从QMediaPlayer到Qt-AV](http://www.cnblogs.com/QingHuan/p/8830562.html)
