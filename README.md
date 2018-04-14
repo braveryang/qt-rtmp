@@ -9,4 +9,5 @@ Play rtmp url in Qt
 可以对HTTP开头的直播流进行播放，但是无法播放RTMP格式的链接，如香港卫视：[rtmp://live.hkstv.hk.lxdns.com/live/hks](rtmp://live.hkstv.hk.lxdns.com/live/hks)
 
 后来又发现了一个项目叫做Qt-AV:[https://github.com/wang-bin/QtAV](https://github.com/wang-bin/QtAV)
-通过一定的配置，在QT-AV一个例子的基础上终于实现了一个能够播放RTMP链接的播放器
+通过一定的配置，在QT-AV一个例子的基础上终于实现了一个能够播放RTMP链接的播放器，见我的另一个仓库
+[https://github.com/zhixuanli/qt-av-stream-player](https://github.com/zhixuanli/qt-av-stream-player)
